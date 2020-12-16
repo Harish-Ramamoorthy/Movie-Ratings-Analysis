@@ -1,5 +1,5 @@
 getwd()
-setwd("/Users/harish/Downloads/R/Section 6")
+setwd("/Users/*****")
 getwd()
 
 #------------------------------- Importing data
